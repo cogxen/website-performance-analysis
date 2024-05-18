@@ -36,14 +36,9 @@ The primary objective is to analyze and optimize web traffic and user engagement
 
 ## Additional Objectives
 
-- [ ] **User Segmentation**: Segment users based on their behavior and engagement metrics to tailor marketing strategies and content.
-- [ ] **Conversion Rate Optimization**: Analyze user behavior and engagement to identify bottlenecks and optimize the conversion funnel.
-- [ ] **User Retention and Return Visits**: Evaluate user retention by analyzing repeat visit patterns and understanding what drives users to return. This insight can help in developing strategies to improve user loyalty and retention rates.
-- [ ] **Bounce Rate Analysis**: Investigate the bounce rate across different pages and segments to identify areas where users are leaving the site quickly. This can help improve page content and user navigation to reduce bounce rates. 
-
-## Future Works
-
-- [ ] **A/B Testing Analysis**: Evaluate the results of A/B tests conducted on the website to determine the impact of different changes on user engagement and conversions. This can help in making data-driven decisions for website optimization.
+- [x] **User Segmentation**: Segment users based on their behavior and engagement metrics to tailor marketing strategies and content.
+- [x] **Conversion Rate Optimization**: Analyze user behavior and engagement to identify bottlenecks and optimize the conversion funnel.
+- [x] **User Retention and Return Visits**: Evaluate user retention by analyzing repeat visit patterns and understanding what drives users to return. This insight can help in developing strategies to improve user loyalty and retention rates.
 
 ## Acknowledgements
 
